@@ -1,6 +1,6 @@
 ## Hardware List
 
-MotherBoard: ASUS Z97-PRO GAMER
+MotherBoard: ASUS Z97-PRO-GAMER
 
 CPU: Intel i7 4790K
 
